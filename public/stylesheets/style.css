@@ -4,17 +4,17 @@
     box-sizing: border-box;
     }
     body {
-    background: #e27442;
+    background: black;
     }
     .todo-container {
-    color: white;
+    color: #ec7036;
     position: absolute;
     top:50%;
     left: 50%;
     padding: 20px;
     width: 600px;
     transform: translate(-50%,-50%);
-    background: rgba(255, 255, 255, 0.1);
+    background: rgb(80, 88, 161);
     border-radius: 20px;
     display: flex;
     flex-direction: column;
