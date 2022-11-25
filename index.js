@@ -59,7 +59,6 @@ app.route("/remove/:id").get((req, res) => {
         res.redirect("/");
     });
 });
-// app.listen(3000, () => console.log("Server Up and running"));
 
 //connection to db
 // mongoose.set("useFindAndModify", false);
